@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "434270270013",
+    "project_id": "dummy-apps-418906",
+    "storage_bucket": "dummy-apps-418906.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434270270013:android:8cb5ccf92d60254ac33054",
+        "android_client_info": {
+          "package_name": "com.example.analytics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl_G72KKiKa-S4H_wyhSAbo125-tlYax0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

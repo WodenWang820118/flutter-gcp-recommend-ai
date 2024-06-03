@@ -1,0 +1,31 @@
+name: analytics
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=3.2.3 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^2.8.0
+  firebase_analytics: ^10.7.4
+  flutter_inappwebview: ^6.0.0
+  url_launcher: ^6.2.6
+  logger: ^2.3.0
+  http: ^1.2.1
+  googleapis_auth: ^1.6.0
+  googleapis: ^13.1.0
+  flutter_dotenv: ^5.1.0
+
+dev_dependencies:
+  flutter_launcher_icons: "^0.13.1"
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/.env
